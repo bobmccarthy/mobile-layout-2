@@ -1,0 +1,97 @@
+.header{
+	background-color: #1D8CBE;
+	height: 50px;
+	
+}
+.bigblue{
+	background-color: #344050;
+	height: 70em;
+	
+}
+.create{
+	color:white;
+	font-size: 2em;
+	padding-top: 5.5em;
+	text-align: center;
+
+}
+.wordpresscom{
+	color: white;
+	padding-top: 2em;
+	padding-bottom: 2em;
+	text-align: center;
+}
+.createbutton{
+	background-color: #1E8CBE;
+	height: 3em;
+	width: 12em;
+	margin: auto;
+	border: .5em solid #212934;
+}
+.smallwhite{
+	background-color: white;
+	width: 3em;
+	height: 1.3em;
+	margin: 13em auto 8em auto;
+}
+.bigwhiteinterior{
+	background-color: white;
+	height: 4em;
+	width: 20em;
+	margin-top: 1.7em;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.lightblue{
+	background-color: #E8F0F5;
+	height: 100em;
+	margin-top: 1px;
+}
+
+.largegrey{
+	background-color: #D1D3D7;
+	height: 87em;
+	padding-top: .5em;
+}
+
+.bigwhite{
+	background-color: white;
+	height: 12em;
+	margin: 2em 1em 0 1em;
+}
+.secondcreate{
+	background-color: #1E8CBE;
+	height: 3em;
+	width: 12em;
+	margin-top: 8.4em;
+	margin-right: auto;
+	margin-left: auto;
+}
+.littleblackbox{
+	box-sizing: border-box;
+	height: 9em;
+	background-color: black;
+	padding-top: 2em;
+	padding-left: 3em;
+	padding-right: 3em;
+	overflow: scroll;
+	padding-bottom: 1em;
+}
+.links{
+	width: 8em;
+	color: white;
+	font-size: .7em;
+	height: 2em;
+	background-color: black;
+	display: inline-block;
+}
+.lastsmallwhite{
+	background-color: white;
+	height: 1.3em;
+	width: 15em;
+	margin: auto;
+	margin-top: 1em;
+}
+
+
